@@ -4,6 +4,9 @@ The primary objective is to accurately delineate and identify areas of immune ce
 Through advanced segmentation techniques, the project aims to provide a precise and detailed map of immune cell distribution around portals.
 This segmentation process facilitates a deeper understanding of immune cell behavior and spatial relationships, contributing valuable insights to immunological studies and related research endeavors.
 
+![圖片](https://github.com/YeeHaoSu/Segmentation-of-Immune-Cell-Portal-Infiltration/assets/90921571/584e64a8-312c-4d09-ab52-a65fd6801974)
+
+
 # File & Directory Structure
 
 $username == username in local
